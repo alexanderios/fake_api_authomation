@@ -1,6 +1,7 @@
 ## Описание
 В классе ApiTests соддержаться автотесты для метода POST из сервиса https://jsonplaceholder.typicode.com
-findTop10FrequentWords метод ищет топ 10 слов в body ответа от сервиса 
+
+- findTop10FrequentWords метод ищет топ 10 слов в body ответа от сервиса во всех 100 ответах
 
 Проект написан на Kotlin версии: 1.9
 JDK: 17
